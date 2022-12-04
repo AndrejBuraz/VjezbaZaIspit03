@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\bin\Debug\VjezbaZaIspit03.exe.config
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\bin\Debug\VjezbaZaIspit03.exe
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\bin\Debug\VjezbaZaIspit03.pdb
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\obj\Debug\VjezbaZaIspit03.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\obj\Debug\VjezbaZaIspit03.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\obj\Debug\VjezbaZaIspit03.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\obj\Debug\VjezbaZaIspit03.exe
+C:\Users\HP\source\repos\VjezbaZaIspit03\VjezbaZaIspit03\obj\Debug\VjezbaZaIspit03.pdb
